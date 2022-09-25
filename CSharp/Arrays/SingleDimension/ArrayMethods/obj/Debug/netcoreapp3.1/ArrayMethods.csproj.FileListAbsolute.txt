@@ -1,0 +1,14 @@
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.csproj.AssemblyReference.cache
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.AssemblyInfoInputs.cache
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.AssemblyInfo.cs
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.csproj.CoreCompileInputs.cache
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.exe
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.deps.json
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.runtimeconfig.json
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.runtimeconfig.dev.json
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.dll
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\bin\Debug\netcoreapp3.1\ArrayMethods.pdb
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.dll
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.pdb
+D:\Hackeru\DOTNET\Basics\Arrays\ArrayMethods\obj\Debug\netcoreapp3.1\ArrayMethods.genruntimeconfig.cache
